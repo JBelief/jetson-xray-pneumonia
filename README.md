@@ -68,7 +68,7 @@ python3 scripts/evaluate.py configs/default.yaml
 python3 scripts/convert_trt.py configs/default.yaml
 
 # 5) start web app
-PYTHONPATH=/workspace/scripts python3 app/app.py
+python3 app/app.py
 # open in browser: http://<jetson-ip>:5000
 ```
 
