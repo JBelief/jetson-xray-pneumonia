@@ -62,7 +62,7 @@ python3 scripts/split_dataset.py --config configs/default.yaml
 python3 scripts/train.py --config configs/default.yaml
 
 # 3) evaluate (Jetson-safe: num_workers=0)
-python3 scripts/evaluate.py --config configs/default.yaml
+python3 scripts/evaluate.py configs/default.yaml
 
 # 4) convert trained model to TensorRT (FP16)
 python3 scripts/convert_trt.py configs/default.yaml
