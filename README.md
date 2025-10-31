@@ -36,7 +36,7 @@ data:
 
 ## 3. Environment
 - Jetson Nano / Xavier NX (JetPack 4.6, L4T r32.7.1)
-- Docker image: `nvcr.io/nvidia/l4t-ml:r32.7.1-py3` (or your committed `jetson-xray:pneu`)
+- Docker image: `nvcr.io/nvidia/l4t-ml:r32.7.1-py3` (or personal committed `jetson-xray:pneu`)
 - Python 3.6
 - PyTorch 1.10.0 (preinstalled in the container)
 - TensorRT and pycuda (preinstalled in the container)
@@ -80,7 +80,7 @@ cd torch2trt && python3 setup.py install
 ```
 
 Notes:
-- We do not install PyTorch from PyPI here, because on Jetson we use NVIDIA’s L4T ML container which already has the correct ARM64 wheels.
+- I do not install PyTorch from PyPI here, because on Jetson I use NVIDIA’s L4T ML container which already has the correct ARM64 wheels.
 - TensorRT and pycuda also come from the container.
 
 ## 6. Repository structure
@@ -110,9 +110,9 @@ Notes:
 ```
 
 ## 7. How it works
-1. Data split: we generate `data/splits/{train,val,test}.txt` pointing to the original pneumonia dataset in `/nvdli-data/...`.
-2. Training: we fine-tune a ResNet-18 on Jetson with small batch size (`batch_size: 8`) and `num_workers: 0` to avoid OOM/shm errors.
-3. Export to TensorRT: we load the trained PyTorch model and run `torch2trt` to build `models/model_fp16.engine`.
+1. Data split: I generate `data/splits/{train,val,test}.txt` pointing to the original pneumonia dataset in `/nvdli-data/...`.
+2. Training: I fine-tune a ResNet-18 on Jetson with small batch size (`batch_size: 8`) and `num_workers: 0` to avoid OOM/shm errors.
+3. Export to TensorRT: I load the trained PyTorch model and run `torch2trt` to build `models/model_fp16.engine`.
 4. Inference: both the CLI script (`scripts/infer_trt.py`) and the web app (`app/app.py`) load the same engine and run inference on a single uploaded X-ray.
 5. Web UI: the page shows
    - uploaded file name
