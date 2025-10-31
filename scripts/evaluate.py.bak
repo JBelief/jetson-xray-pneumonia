@@ -1,0 +1,29 @@
+import argparse, yaml, os, torch, numpy as np, matplotlib.pyplot as plt
+from sklearn.metrics import roc_auc_score, confusion_matrix, roc_curve
+from train import TxtDataset, build_model
+
+def plot_and_save(y_true, y_prob, out="docs/results.png"):
+    fpr,tpr,thr = roc_curve(y_true, y_prob)
+    auc = roc_auc_score(y_true, y_prob)
+    cm = confusion_matrix(y_true, (y_prob>=0.5).astype(int))
+    fig = plt.figure(figsize=(8,4))
+    plt.subplot(1,2,1); plt.plot(fpr,tpr); plt.title(f"ROC AUC={auc:.3f}"); plt.xlabel("FPR"); plt.ylabel("TPR")
+    plt.subplot(1,2,2); plt.imshow(cm, interpolation='nearest'); plt.title("Confusion Matrix"); plt.xticks([0,1],["NORMAL","PNEUMONIA"]); plt.yticks([0,1],["NORMAL","PNEUMONIA"])
+    for (i,j),v in np.ndenumerate(cm): plt.text(j,i,str(v),ha='center',va='center')
+    plt.tight_layout(); os.makedirs("docs",exist_ok=True); plt.savefig(out); print("saved:",out)
+
+if __name__=="__main__":
+    ap=argparse.ArgumentParser(); ap.add_argument("--config",default="configs/default.yaml"); args=ap.parse_args()
+    cfg=yaml.safe_load(open(args.config))
+    ds = TxtDataset(os.path.join(cfg['data']['output_splits'],"test.txt"), cfg['data']['img_size'])
+    dl = torch.utils.data.DataLoader(ds, batch_size=64, shuffle=False, num_workers=2)
+    ckpt = torch.load("models/best.ckpt", map_location="cpu")
+    model = build_model(cfg['train']['model']); model.load_state_dict(ckpt["model"]); model.eval()
+    y_true=[]; y_prob=[]
+    with torch.inference_mode():
+        for x,y in dl:
+            logits = model(x); prob = torch.softmax(logits,1)[:,1]
+            y_true += y.numpy().tolist(); y_prob += prob.numpy().tolist()
+    y_true=np.array(y_true); y_prob=np.array(y_prob)
+    plot_and_save(y_true, y_prob)
+

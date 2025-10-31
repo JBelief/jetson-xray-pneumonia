@@ -1,0 +1,30 @@
+data:
+  pneumonia_dir: "/nvdli-data/Pneumonia_Dataset/PNEUMONIA"
+  normal_dir:    "/nvdli-data/Pneumonia_Dataset/NORMAL"
+  output_splits: "data/splits"     # train/val/test txt 저장
+  img_size: 224
+  val_ratio: 0.1
+  test_ratio: 0.1
+train:
+  model: "resnet18"                # 또는 "efficientnet_b0"
+  batch_size: 8                   # Nano는 16~32 권장(메모리 따라 조절)
+  epochs: 20
+  lr: 0.001
+  weight_decay: 0.0005
+  aug:
+    hflip: true
+    vflip: false
+    rotate_deg: 10
+    brightness: 0.1
+    contrast: 0.1
+  mixed_precision: true            # 가능 시 autocast
+export:
+  onnx_path: "models/model.onnx"
+  opset: 12
+trt:
+  engine_path: "models/model_fp16.engine"
+  fp16: true
+app:
+  labels: ["NORMAL", "PNEUMONIA"]
+  threshold: 0.5
+

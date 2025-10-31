@@ -1,0 +1,1123 @@
+/nvdli-data/Pneumonia_Dataset/NORMAL/NORMAL2-IM-1005-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1535.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3484.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person312_bacteria_1455.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person25_bacteria_113.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1592.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2964.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-138.png	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/IM-0670-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/NORMAL2-IM-1345-0001-0002.jpeg	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/IM-0429-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person382_bacteria_1741.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person124_bacteria_592.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2342.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person542_virus_1072.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person595_virus_1147.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1742.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person545_bacteria_2290.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1634_bacteria_4334.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2517.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3899.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1454_bacteria_3779.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-853.png	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-520.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-68.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person884_virus_1534.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person929_virus_1588.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/NORMAL2-IM-0647-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1816_bacteria_4674.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1551_virus_2692.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person124_virus_244.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3785.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-1342.png	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/NORMAL2-IM-0415-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2649.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person608_bacteria_2473.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-328.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1256_bacteria_3214.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-741.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1399_virus_2402.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1223_bacteria_3178.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3332.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1941_bacteria_4863.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1730_bacteria_4558.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/NORMAL2-IM-1276-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/NORMAL2-IM-1269-0001-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3338.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-678.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person504_bacteria_2127.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1846.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-134.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person88_virus_163.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person749_virus_1374.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/NORMAL2-IM-0060-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3108.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1665_virus_2878.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-649.png	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2143.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-514.png	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-803.png	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1051_bacteria_2985.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person720_bacteria_2622.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2127.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1111.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1215_bacteria_3167.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2728.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-446.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person790_virus_1421.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1405_bacteria_3566.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1107_virus_1831.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person427_bacteria_1865.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-315.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/NORMAL2-IM-0851-0001-0002.jpeg	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person466_bacteria_1986.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3591.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1785.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person373_bacteria_1709.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/IM-0037-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/IM-0647-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-815.png	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-668.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1046_bacteria_2980.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person657_virus_1240.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/NORMAL2-IM-0335-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1405_bacteria_3567.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person402_bacteria_1810.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person313_bacteria_1460.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/IM-0494-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-1131.png	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/NORMAL2-IM-0274-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1482_virus_2572.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1294_bacteria_3257.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person475_bacteria_2022.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/IM-0652-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-717.png	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person310_bacteria_1451.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-474.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-919.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/IM-0626-0001-0002.jpeg	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1320_bacteria_3350.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2026.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person420_bacteria_1851.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1675.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person55_bacteria_263.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person561_bacteria_2331.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-613.png	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3620.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1762.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3021.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person113_bacteria_541.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person298_bacteria_1411.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-468.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/NORMAL2-IM-0828-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/NORMAL2-IM-1138-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person33_bacteria_174.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-744.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person958_bacteria_2883.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/IM-0133-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2997.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3228.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person672_virus_1261.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person43_bacteria_216.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person461_virus_950.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person382_bacteria_1746.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person503_virus_1013.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/IM-0467-0001-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person927_bacteria_2852.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-828.png	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/IM-0235-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-965.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1731.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person99_virus_183.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1710.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2142.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1082_bacteria_3022.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-1031.png	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-156.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person480_bacteria_2040.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person157_virus_311.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3232.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3548.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2669.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-450.png	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-982.png	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person371_bacteria_1701.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person359_bacteria_1644.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-736.png	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-681.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1729.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1884_bacteria_4771.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2111.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person370_virus_753.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2362.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person481_bacteria_2041.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person723_virus_1342.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1609_bacteria_4237.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1320_bacteria_3340.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3227.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1323_virus_2282.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/NORMAL2-IM-0630-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1912_bacteria_4817.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1355_bacteria_3452.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/NORMAL2-IM-1296-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person525_bacteria_2220.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-1248.png	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person253_bacteria_1157.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-178.png	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1386.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1317_bacteria_3332.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-914.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1440_bacteria_3723.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2752.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-523.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-1247.png	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/NORMAL2-IM-1267-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person755_virus_1382.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person618_virus_1189.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3049.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/NORMAL2-IM-1304-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-57.png	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/IM-0456-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-239.png	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/IM-0279-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1195_bacteria_3144.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person258_bacteria_1209.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person625_bacteria_2500.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person544_virus_1079.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1252_bacteria_3209.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3527.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3419.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-1341.png	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-1029.png	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-442.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2091.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/NORMAL2-IM-0587-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/IM-0733-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1259_bacteria_3217.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person51_bacteria_239.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person543_bacteria_2281.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3752.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2282.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3145.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/IM-0428-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1770.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3525.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1536_virus_2673.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3118.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3894.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/IM-0039-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1091.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person331_bacteria_1526.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person585_bacteria_2416.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-1270.png	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2293.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/NORMAL2-IM-0081-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-859.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/IM-0384-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person262_virus_545.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1507_bacteria_3935.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person299_bacteria_1417.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-122.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-33.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1406.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person300_bacteria_1423.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2364.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-314.png	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person298_bacteria_1409.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-542.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person173_bacteria_830.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/NORMAL2-IM-0819-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-987.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1449.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-873.png	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3100.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2176.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1651.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-651.png	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1184_virus_2019.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1886_bacteria_4773.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person292_virus_597.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person300_bacteria_1422.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person150_bacteria_717.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-224.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1052_bacteria_2986.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/NORMAL2-IM-1102-0001-0002.jpeg	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-418.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person23_bacteria_79.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person834_bacteria_2748.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1343_bacteria_3418.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1520_bacteria_3971.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3736.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person25_bacteria_117.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-1345.png	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person537_bacteria_2263.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1333_bacteria_3383.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2468.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1781.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1163.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-488.png	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person630_bacteria_2515.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1548_bacteria_4048.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person489_virus_995.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person146_bacteria_700.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person72_bacteria_354.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/NORMAL2-IM-1116-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person387_bacteria_1770.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-678.png	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/NORMAL2-IM-1150-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-828.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person31_bacteria_164.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2506.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/IM-0608-0001-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2140.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3942.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person547_bacteria_2296.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1418_bacteria_3637.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2432.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1542.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-1054.png	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person357_virus_734.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-105.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/NORMAL2-IM-0271-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-611.png	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3096.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1160_bacteria_3105.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-1150.png	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-213.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2060.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person64_bacteria_316.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/NORMAL2-IM-0757-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person149_bacteria_713.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2084.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1824.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-163.png	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2197.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-1266.png	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2925.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3354.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-187.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1403_bacteria_3557.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-983.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2193.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1419_bacteria_3645.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person321_bacteria_1487.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1000_bacteria_2931.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-164.png	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-902.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/NORMAL2-IM-0396-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1006_bacteria_2937.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-353.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2316.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1154.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1884.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/NORMAL2-IM-0947-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2385.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person959_bacteria_2884.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person12_bacteria_48.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person298_virus_617.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2913.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person580_bacteria_2389.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1197.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1424.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person319_bacteria_1477.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person25_bacteria_118.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/IM-0176-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1792.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person520_bacteria_2204.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-982.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person73_bacteria_358.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person423_bacteria_1858.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/IM-0314-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1717_bacteria_4536.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3554.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2058.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3401.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-754.png	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1680_virus_2897.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1028.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3112.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person126_bacteria_599.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-250.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3327.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3841.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person771_virus_1399.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/NORMAL2-IM-1174-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2941.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1240_bacteria_3196.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-851.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2949.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-426.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2252.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1749.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3115.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1341_bacteria_3406.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person817_bacteria_2728.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-130.png	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2056.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1567_bacteria_4100.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person585_bacteria_2413.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person525_bacteria_2216.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-418.png	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-221.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person854_bacteria_2776.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3760.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-285.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-784.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1520_virus_2647.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/IM-0741-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person352_bacteria_1625.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1395.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person159_bacteria_746.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-702.png	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person334_bacteria_1542.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person731_virus_1352.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person712_bacteria_2613.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1427.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-968.png	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person120_virus_226.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person619_bacteria_2491.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1420.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/IM-0581-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2357.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person490_bacteria_2068.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/IM-0523-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2722.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1597_bacteria_4187.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person629_virus_1207.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1042.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-781.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person64_bacteria_319.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2449.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3324.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/IM-0389-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person392_bacteria_1784.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2556.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1576_bacteria_4127.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/IM-0299-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person516_bacteria_2192.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-581.png	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1666.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3777.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1759.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person445_virus_915.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1085_virus_1797.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1779.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1913.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1057.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-751.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1018_virus_1706.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3648.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person576_bacteria_2376.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2045.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1864_bacteria_4736.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1494_virus_2601.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person38_bacteria_193.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1182_virus_2017.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person102_bacteria_487.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/IM-0695-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2954.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3148.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-386.png	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/IM-0268-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-1323.png	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-817.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-481.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-652.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person624_bacteria_2497.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1932_bacteria_4843.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-471.png	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2038.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1542_bacteria_4029.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person472_bacteria_2010.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person171_bacteria_826.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3811.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person351_bacteria_1617.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-981.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3687.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-819.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person446_virus_920.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1356_virus_2337.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-618.png	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1397_virus_2400.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1482.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2565.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1364.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person145_virus_294.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1310_virus_2255.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2104.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-246.png	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3125.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1558_bacteria_4066.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1390_bacteria_3535.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1777.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2129.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1492_bacteria_3894.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/IM-0101-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1372_bacteria_3501.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/IM-0651-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2264.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1477_virus_2561.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person567_bacteria_2353.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person111_bacteria_534.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3404.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3756.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-883.png	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person316_bacteria_1469.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3403.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person690_bacteria_2587.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person647_virus_1229.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2835.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2139.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-1334.png	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1129_bacteria_3070.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1155_virus_1934.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-669.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3642.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-398.png	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person83_virus_156.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/NORMAL2-IM-0781-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person982_bacteria_2909.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1439_virus_2453.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-286.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person276_bacteria_1297.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-1151.png	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-1030.png	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3233.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person465_bacteria_1979.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person3_bacteria_13.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person789_bacteria_2694.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/NORMAL2-IM-0530-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person558_bacteria_2328.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person61_bacteria_296.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/NORMAL2-IM-0348-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3229.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/IM-0354-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1308_bacteria_3286.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-684.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-690.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person33_virus_72.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1170_bacteria_3117.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3168.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1520.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-513.png	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2897.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person44_bacteria_219.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/NORMAL2-IM-0851-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-189.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1429_virus_2443.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1977.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-644.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-912.png	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person18_bacteria_57.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1358_virus_2339.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/IM-0437-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/IM-0386-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1619_bacteria_4270.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1805.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3587.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1584_bacteria_4146.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1512.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1001_bacteria_2932.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3824.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person623_virus_1197.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-1249.png	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person316_virus_641.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/IM-0656-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1914.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person500_bacteria_2105.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2662.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1418_virus_2429.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person464_bacteria_1975.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/IM-0300-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/NORMAL2-IM-0547-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-464.png	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2726.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1591_virus_2765.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1522.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3328.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3087.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2229.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1345_bacteria_3426.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3655.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/NORMAL2-IM-0131-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2460.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1506.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-1128.png	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person293_bacteria_1379.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-1176.png	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-559.png	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person78_bacteria_378.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2560.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-573.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/NORMAL2-IM-1328-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/IM-0507-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2805.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/IM-0364-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person530_virus_1052.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1906.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1514.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/NORMAL2-IM-1116-0001-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-285.png	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-692.png	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person563_bacteria_2340.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person470_bacteria_1999.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1132_virus_1863.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1936.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-102.png	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1138_virus_1877.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2545.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/IM-0528-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3578.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person133_bacteria_638.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person419_bacteria_1844.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person308_bacteria_1445.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1054_bacteria_2988.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-4.png	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person53_bacteria_253.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person466_bacteria_1983.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/IM-0526-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/NORMAL2-IM-0233-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-712.png	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3360.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/NORMAL2-IM-1214-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3428.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-259.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person20_bacteria_67.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-821.png	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1992.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3909.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person816_bacteria_2727.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person172_bacteria_827.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-1283.png	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-609.png	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1875_bacteria_4756.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/IM-0025-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1172_bacteria_3119.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-251.png	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/NORMAL2-IM-1027-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person81_bacteria_397.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3448.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1555_bacteria_4058.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/IM-0569-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1049.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2201.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-461.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3027.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person616_bacteria_2487.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-50.png	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3077.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2205.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/NORMAL2-IM-0407-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3932.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person863_bacteria_2785.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1176_virus_1996.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-553.png	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-750.png	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person408_bacteria_1823.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/NORMAL2-IM-0309-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1986.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-845.png	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-254.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1853.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1411_bacteria_3610.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person992_bacteria_2920.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-913.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3562.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person319_bacteria_1476.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1192.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person328_bacteria_1512.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1626_virus_2818.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-600.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person121_bacteria_578.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1320_bacteria_3353.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-999.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2930.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person402_bacteria_1813.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1673_virus_2889.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person292_virus_602.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3976.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-101.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-1195.png	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/IM-0642-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person658_bacteria_2550.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1178.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person54_virus_109.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person357_virus_735.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2380.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1223_virus_2073.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1544_bacteria_4038.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-927.png	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1180_bacteria_3128.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1619_bacteria_4271.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person321_bacteria_1483.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2363.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person326_bacteria_1504.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person383_bacteria_1754.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person764_bacteria_2668.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person763_bacteria_2667.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1077_bacteria_3017.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1848.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1143.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-23.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-942.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person778_bacteria_2682.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person765_virus_1393.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2966.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1394.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1724_bacteria_4549.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1499_bacteria_3915.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-467.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2101.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1361_virus_2342.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-499.png	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-935.png	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person287_bacteria_1354.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person77_bacteria_377.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/NORMAL2-IM-1286-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1199_bacteria_3149.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2694.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person94_bacteria_458.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person722_virus_1341.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-147.png	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-1093.png	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person593_virus_1142.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1007_virus_1690.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-620.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1576_bacteria_4121.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/NORMAL2-IM-0995-0001-0002.jpeg	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2437.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person153_virus_304.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person161_virus_317.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2524.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2576.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/NORMAL2-IM-0410-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/NORMAL2-IM-0683-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3885.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/NORMAL2-IM-0507-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1696.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1902.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3779.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person153_bacteria_726.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1279_bacteria_3242.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person407_virus_814.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1188.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/IM-0016-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1139_virus_1882.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-788.png	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/IM-0672-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person537_bacteria_2264.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2429.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person253_bacteria_1153.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2228.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person461_bacteria_1960.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1158_bacteria_3103.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1985.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3235.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-221.png	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person788_virus_1419.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/NORMAL2-IM-1291-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1325_virus_2287.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3624.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2025.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1059_virus_1758.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1940.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1894.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person861_virus_1506.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-334.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/IM-0275-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2331.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3117.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/NORMAL2-IM-0790-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1187_bacteria_3136.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-695.png	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2426.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person64_bacteria_317.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-326.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3234.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person673_virus_1263.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1438_virus_2452.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2318.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person370_bacteria_1687.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1158_virus_1943.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-655.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-580.png	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person141_bacteria_676.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/IM-0523-0001-0002.jpeg	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/IM-0646-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-1039.png	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/NORMAL2-IM-1134-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-119.png	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1374_virus_2365.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-209.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2645.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-151.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person426_bacteria_1862.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-252.png	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1073.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-385.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1176_bacteria_3124.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3558.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1236_virus_2096.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person596_virus_1149.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-87.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-86.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3772.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1245.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person326_virus_670.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person432_virus_881.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person158_virus_312.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1537_virus_2674.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/NORMAL2-IM-0404-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person599_bacteria_2455.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2333.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/NORMAL2-IM-0678-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-428.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-674.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1768.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person738_virus_1360.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person381_bacteria_1731.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/NORMAL2-IM-1336-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/NORMAL2-IM-0286-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person371_bacteria_1698.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-702.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2740.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1565_bacteria_4095.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person47_bacteria_229.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-779.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2283.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/IM-0485-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person68_bacteria_336.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-170.png	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person554_bacteria_2323.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3074.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-550.png	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-773.png	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2758.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person872_bacteria_2795.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-758.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-130.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1031_bacteria_2964.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1174.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1058_virus_1757.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1987.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2594.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person415_bacteria_1837.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-969.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1481_bacteria_3864.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-262.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2230.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1936_bacteria_4852.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-272.png	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3037.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3837.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-155.png	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/IM-0331-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3891.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1687.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person100_bacteria_479.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-1184.png	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1323_bacteria_3362.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-21.png	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1722_bacteria_4547.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1336_virus_2306.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/IM-0480-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1492_virus_2599.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1316.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person92_bacteria_450.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1721_bacteria_4546.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2389.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person921_virus_1578.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1231_bacteria_3186.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-47.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1250.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2664.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/NORMAL2-IM-1442-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-417.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/IM-0273-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person291_bacteria_1376.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1994.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-1061.png	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-39.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2195.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1544_virus_2685.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2334.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person839_bacteria_2757.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1527_bacteria_3988.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-709.png	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person487_bacteria_2057.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1317_virus_2273.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person419_virus_859.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3910.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1619.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2940.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1873.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-549.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1945.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1746_bacteria_4585.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/NORMAL2-IM-1035-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person578_virus_1122.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person515_bacteria_2188.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-888.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person281_bacteria_1331.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person436_virus_886.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-716.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1700_bacteria_4502.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person585_bacteria_2415.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-1170.png	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2567.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2761.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3301.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1693_bacteria_4485.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/IM-0297-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person868_virus_1513.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-55.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/NORMAL2-IM-1183-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3407.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-915.png	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person75_bacteria_366.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1338.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3067.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person334_bacteria_1545.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-964.png	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2213.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-866.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-818.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1411_bacteria_3598.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person612_bacteria_2477.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-425.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person300_bacteria_1421.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1343_bacteria_3414.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-388.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-1187.png	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1521.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person998_bacteria_2927.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-773.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3046.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1217_virus_2063.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1684_bacteria_4463.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person152_bacteria_723.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-635.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person158_bacteria_742.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-1302.png	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2141.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2352.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1295.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-768.png	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-399.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-788.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1477.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person510_bacteria_2150.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person978_bacteria_2904.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person48_bacteria_233.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3171.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/IM-0631-0001-0002.jpeg	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1967.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1483_bacteria_3876.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-457.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-329.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1548_virus_2689.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-174.png	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-531.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1567_virus_2722.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-1325.png	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-624.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1669_virus_2885.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person830_virus_1466.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/IM-0404-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/NORMAL2-IM-0173-0001-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person67_bacteria_330.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1124.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/IM-0667-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3635.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-32.png	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/NORMAL2-IM-1039-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person477_bacteria_2028.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-1025.png	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/NORMAL2-IM-0588-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person35_bacteria_180.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2859.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person113_bacteria_543.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/NORMAL2-IM-0329-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1442.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-386.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3055.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1911.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/NORMAL2-IM-0206-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-568.png	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person141_bacteria_681.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person85_bacteria_417.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1745_bacteria_4584.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person287_virus_586.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/NORMAL2-IM-1300-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1005.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-354.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1017_bacteria_2948.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1905_bacteria_4801.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-297.png	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person491_bacteria_2081.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3751.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1239.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1764_bacteria_4607.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person670_virus_1259.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-496.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-479.png	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3344.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2729.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-705.png	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1454.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person374_virus_757.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/IM-0491-0001-0002.jpeg	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-49.png	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/NORMAL2-IM-0810-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1688.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person988_bacteria_2915.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1469_virus_2547.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1637_virus_2834.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1491_bacteria_3892.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2607.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1443.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/NORMAL2-IM-0651-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person85_bacteria_421.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-734.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/NORMAL2-IM-0383-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person313_bacteria_1459.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1715.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person497_virus_1005.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2651.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1060.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-808.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/IM-0276-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/IM-0335-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1644_bacteria_4362.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person481_virus_983.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person134_bacteria_640.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1026_virus_1718.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-576.png	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-1125.png	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3138.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/IM-0478-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1555.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3847.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/NORMAL2-IM-1254-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person762_virus_1390.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1065.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-54.png	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person83_bacteria_412.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/IM-0264-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person741_virus_1364.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person667_virus_1252.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person427_virus_875.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-118.png	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person810_bacteria_2719.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-1183.png	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person366_virus_746.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/IM-0541-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1232_virus_2089.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1347_virus_2323.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1687_bacteria_4468.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person55_bacteria_266.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-1208.png	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person515_bacteria_2187.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1544_bacteria_4033.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person260_bacteria_1224.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-1142.png	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1900.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1426_bacteria_3668.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/NORMAL2-IM-1232-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-1138.png	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person301_bacteria_1424.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person965_bacteria_2890.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1841.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person394_bacteria_1791.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3038.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2991.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person449_bacteria_1940.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1107_bacteria_3048.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person58_bacteria_275.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person855_virus_1500.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person823_virus_1459.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3331.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1851_bacteria_4722.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person280_bacteria_1320.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1527_virus_2661.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person357_bacteria_1640.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/IM-0345-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/IM-0722-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/IM-0532-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2365.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person814_bacteria_2725.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-331.png	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-578.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-539.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person112_bacteria_539.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person31_bacteria_161.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person50_virus_102.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2267.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1588_virus_2762.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3509.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/IM-0519-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person273_virus_561.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person930_bacteria_2855.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2790.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/NORMAL2-IM-1043-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person850_bacteria_2771.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3053.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2927.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1312_bacteria_3316.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person161_bacteria_757.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-282.png	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1859.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3198.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-24.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-477.png	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-275.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-1328.png	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-449.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3076.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person301_bacteria_1429.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person937_virus_1599.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1202_bacteria_3153.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1145.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person25_bacteria_121.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-920.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2427.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person328_bacteria_1513.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person94_bacteria_457.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/NORMAL2-IM-0290-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/NORMAL2-IM-0384-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-879.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1983.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/IM-0355-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-373.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1320.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/IM-0517-0001-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-1272.png	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3174.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1644_bacteria_4357.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1457_virus_2498.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-1371.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-300.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person30_bacteria_146.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3924.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person266_bacteria_1248.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/IM-0180-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-3596.png	0
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-2082.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/Viral Pneumonia-1239.png	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1751_bacteria_4592.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/IM-0234-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person382_bacteria_1740.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1252_virus_2124.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person500_bacteria_2110.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/NORMAL2-IM-0935-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1271_virus_2164.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-672.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person433_bacteria_1875.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/NORMAL2-IM-0481-0001.jpeg	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1491_virus_2597.jpeg	1
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1632_virus_2827.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/NORMAL2-IM-1154-0001-0002.jpeg	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person296_bacteria_1395.jpeg	1
+/nvdli-data/Pneumonia_Dataset/NORMAL/Normal-793.png	0
+/nvdli-data/Pneumonia_Dataset/PNEUMONIA/person1549_virus_2690.jpeg	1

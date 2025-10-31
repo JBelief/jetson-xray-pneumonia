@@ -1,0 +1,102 @@
+import os, yaml, argparse, time
+import torch
+torch.set_num_threads(1)
+from pathlib import Path
+import torch, torch.nn as nn, torch.optim as optim
+from torch.utils.data import Dataset, DataLoader
+from torchvision import transforms, models
+from PIL import Image
+import numpy as np
+
+class TxtDataset(Dataset):
+    def __init__(self, list_path, img_size, aug=False, cfg=None):
+        self.items = [l.strip().split("\t") for l in open(list_path)]
+        self.img_size = img_size
+        t = []
+        if aug:
+            a = cfg['train']['aug']
+            t += [transforms.RandomHorizontalFlip() if a['hflip'] else transforms.Lambda(lambda x:x)]
+            t += [transforms.RandomRotation(a['rotate_deg'])] if a['rotate_deg']>0 else []
+            t += [transforms.ColorJitter(brightness=a['brightness'], contrast=a['contrast'])]
+        self.tf = transforms.Compose(t + [
+            transforms.Resize((img_size,img_size)),
+            transforms.ToTensor(),
+            transforms.Normalize(mean=[0.485,0.456,0.406], std=[0.229,0.224,0.225])
+        ])
+
+    def __len__(self): return len(self.items)
+    def __getitem__(self, i):
+        p, lab = self.items[i]
+        img = Image.open(p).convert("RGB")  # X-ray를 3채널로 적재(사전학습 가중치 호환)
+        return self.tf(img), torch.tensor(int(lab), dtype=torch.long)
+
+# scripts/train.py 의 build_model()를 이걸로 교체
+def build_model(name):
+    import torchvision
+    if name == "resnet18":
+        # torchvision 0.13+ 는 Weights enum, 0.12- 는 pretrained=True
+        if hasattr(torchvision.models, "ResNet18_Weights"):
+            m = torchvision.models.resnet18(weights=torchvision.models.ResNet18_Weights.IMAGENET1K_V1)
+        else:
+            m = torchvision.models.resnet18(pretrained=True)
+        m.fc = nn.Linear(m.fc.in_features, 2)
+        return m
+
+    elif name == "mobilenet_v2":
+        if hasattr(torchvision.models, "MobileNet_V2_Weights"):
+            m = torchvision.models.mobilenet_v2(weights=torchvision.models.MobileNet_V2_Weights.IMAGENET1K_V1)
+        else:
+            m = torchvision.models.mobilenet_v2(pretrained=True)
+        m.classifier[1] = nn.Linear(m.classifier[1].in_features, 2)
+        return m
+
+    else:
+        raise ValueError("unknown model (use 'resnet18' or 'mobilenet_v2' for this env)")
+
+
+def accuracy(logits, labels):
+    preds = logits.argmax(1)
+    return (preds==labels).float().mean().item()
+
+def main(cfg):
+    device = "cuda" if torch.cuda.is_available() else "cpu"
+    splits = cfg['data']['output_splits']
+    train_ds = TxtDataset(os.path.join(splits,"train.txt"), cfg['data']['img_size'], aug=True, cfg=cfg)
+    val_ds   = TxtDataset(os.path.join(splits,"val.txt"),   cfg['data']['img_size'])
+    train_dl = DataLoader(train_ds, batch_size=cfg['train']['batch_size'], shuffle=True, num_workers=0, pin_memory=False)
+    val_dl   = DataLoader(val_ds,   batch_size=cfg['train']['batch_size'], shuffle=False, num_workers=0, pin_memory=False)
+
+    model = build_model(cfg['train']['model']).to(device)
+    opt   = optim.AdamW(model.parameters(), lr=cfg['train']['lr'], weight_decay=cfg['train']['weight_decay'])
+    crit  = nn.CrossEntropyLoss()
+
+    scaler = torch.cuda.amp.GradScaler(enabled=cfg['train']['mixed_precision'])
+    best_acc, best_p = 0.0, Path("models"); best_p.mkdir(exist_ok=True, parents=True)
+
+    for epoch in range(cfg['train']['epochs']):
+        model.train(); tr_loss=0; tr_acc=0; n=0
+        for x,y in train_dl:
+            x,y = x.to(device), y.to(device)
+            opt.zero_grad(set_to_none=True)
+            with torch.cuda.amp.autocast(enabled=cfg['train']['mixed_precision']):
+                logits = model(x); loss = crit(logits,y)
+            scaler.scale(loss).backward()
+            scaler.step(opt); scaler.update()
+            bs = y.size(0); tr_loss += loss.item()*bs; tr_acc += accuracy(logits,y)*bs; n+=bs
+        model.eval(); va_acc=0; m=0
+        with torch.inference_mode(), torch.cuda.amp.autocast(enabled=False):
+            for x,y in val_dl:
+                x,y = x.to(device), y.to(device)
+                logits = model(x); va_acc += accuracy(logits,y)*y.size(0); m+=y.size(0)
+        va_acc /= m; tr_loss/=n; tr_acc/=n
+        print(f"[{epoch+1}/{cfg['train']['epochs']}] loss={tr_loss:.4f} acc={tr_acc:.3f} val_acc={va_acc:.3f}")
+        if va_acc>best_acc:
+            best_acc=va_acc
+            torch.save({"model":model.state_dict(),"cfg":cfg}, best_p/"best.ckpt")
+    print("best val acc:", best_acc)
+
+if __name__=="__main__":
+    ap=argparse.ArgumentParser(); ap.add_argument("--config",default="configs/default.yaml"); args=ap.parse_args()
+    cfg=yaml.safe_load(open(args.config))
+    main(cfg)
+
